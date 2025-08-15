@@ -1,0 +1,7 @@
+echo "# http-localhost-8889-notebooks-Prisha-20Day-201.ipynb" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/prince0000-ops/http-localhost-8889-notebooks-Prisha-20Day-201.ipynb.git
+git push -u origin main
